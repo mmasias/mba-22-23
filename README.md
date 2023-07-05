@@ -5,10 +5,12 @@
 - [Una sencilla presentación...](https://docs.google.com/presentation/d/1c-qJ0cIbaMGAj04NR0v5Y3pGTMGMmJC3rqAb_28B34A/edit?usp=sharing)
 - [La línea de tiempo, ampliada](https://docs.google.com/spreadsheets/d/1YLe5zTt8rf565U_-fE9ZZ_Wac3VV0mnihwVSv-hbuWw/edit?usp=sharing)
 
+|Derecho|Periodismo|Mercadotecnia|Ingenieria Industrial|Administración de empresas|Contador Público|
+|-|-|-|-|-|-
 
 ## Presentación(es)
 
-- Me presento: [Manuel Masías](https://www.linkedin.com/in/mmasias/) [![manuel@masiasweb.com](../imagenes/Gmail-icon-16x16.png)](mailto:manuel@masiasweb.com)  [![](../imagenes/twitter-icon-16x16.png)](https://twitter.com/mmasias)  [![](../imagenes/linkedin-icon-16x16.png)](https://www.linkedin.com/in/mmasias/), [Ing. Industrial y de Sistemas por UDEP](https://www.udep.edu.pe/ingenieria/carrera/ingenieria-industrial-y-de-sistemas/) - Universidad de [Piura](https://es.wikipedia.org/wiki/Piura). Dr. en Proyectos por la [Universidad Internacional Iberoamericana](https://www.unib.org/).
+- Me presento: [Manuel Masías](https://www.linkedin.com/in/mmasias/) [📧](mailto:manuel@masiasweb.com) / [@mmasias](https://twitter.com/mmasias), [Ing. Industrial y de Sistemas por UDEP](https://www.udep.edu.pe/ingenieria/carrera/ingenieria-industrial-y-de-sistemas/) - Universidad de [Piura](https://es.wikipedia.org/wiki/Piura). Dr. en Proyectos por la [Universidad Internacional Iberoamericana](https://www.unib.org/).
 - ¿Nos presentamos?
 
 # MBA
