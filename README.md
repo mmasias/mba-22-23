@@ -60,7 +60,7 @@ Pero en el fondo, es algo más de lo mismo. *(¿Patrones / Recursividad?)* *([¿
 
 Un proyecto es, en esencia, un problema de comunicación.
 
-- La abstracción: extraer las características más resaltantes de algo, ignorando lo superfluo.
+- La abstracción: extraer las características más relevantes de algo, ignorando lo superfluo.
 - [Modelos, modelos, modelos...](https://github.com/mmasias/DSI-22-23/blob/main/temario/01-modelosDeNegocioInnovacion/t01-02-00-herramientasMarcos.md)
 - [Algunos marcos(modelos) de trabajo.](https://github.com/mmasias/DSI-22-23/blob/main/temario/01-modelosDeNegocioInnovacion/t01-02-03-algunosMarcos.md)
 - Ejemplo de un modelo del dominio: [el fútbol](https://github.com/ibuprofenofernandez/IdSw1-22-23/blob/main/actividades/001-futbol/ibuprofenoFernandez/readme.md)
