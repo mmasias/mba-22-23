@@ -76,9 +76,12 @@ Pero en el fondo, es algo más de lo mismo. *(¿Patrones / Recursividad?)* *([¿
 
 [Y una sencilla presentación más...](https://docs.google.com/presentation/d/1qQXZE0g10PZHzisHxJbp32Dkxx9gktXhPHh3fNLmgDs/edit?usp=sharing)
 
+[Mis apuntes de DSI](https://github.com/mmasias/DSI-22-23), para picar temas salteados y reflexionar.
+
 ## Dinámica de "La idea", parte II
 
 - ;)
+- 
 # pyNutriber
 
 - Si nos da el tiempo, [lo comentamos](https://docs.google.com/presentation/d/0B0tHzaS3tbKpLTlJREpFa2xXM0k/edit?usp=sharing&ouid=109884286478208474474&resourcekey=0-VIZ2KaCLuVfvuTRnbYFYAQ&rtpof=true&sd=true).
