@@ -1,7 +1,5 @@
 # Dirección de Sistemas de Información @ MBA.WorkshopPresencial
 
-[Will robots take my job?](https://willrobotstakemyjob.com/)
-
 ## Línea de tiempo / Nuestra línea de tiempo...
 
 - [Una sencilla presentación...](https://docs.google.com/presentation/d/1c-qJ0cIbaMGAj04NR0v5Y3pGTMGMmJC3rqAb_28B34A/edit?usp=sharing)
@@ -47,9 +45,9 @@ El entorno es tan cambiante, que incluso definiciones como [VUCA (Volatilidad, i
 
 > Al ser frágil, estar ansiosos por encontrar la solución y ser no lineal se torna impenetrable y lo hace más frágil, nos pone más ansiosos y provoca menor linealidad (Shutterstock)
 
-Pero en el fondo, es algo más de lo mismo. *(¿Patrones / Recursividad?)* *([¿Miedo a lo desconocido?](https://docs.google.com/presentation/d/1O6AF3OdhmQ2Zd6KPyKDRTYZ39V2jJWZ6ZnulcDFyVKQ/edit?usp=sharing))*
+Pero en el fondo, es algo más de lo mismo. *(¿Patrones / Recursividad?)* *([¿Miedo a lo desconocido?](https://docs.google.com/presentation/d/1O6AF3OdhmQ2Zd6KPyKDRTYZ39V2jJWZ6ZnulcDFyVKQ/edit?usp=sharing))* *[Will robots take my job?](https://willrobotstakemyjob.com/)*
 
-## La transformación digital
+## Transformación digital
 
 [Otra sencilla presentación...](https://docs.google.com/presentation/d/1PxBcCihyPK1mwv9PErElJVNbQcRhRhwyPoZAv-U_Ees/edit?usp=sharing)
 
